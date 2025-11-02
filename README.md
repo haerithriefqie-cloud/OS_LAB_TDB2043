@@ -1,4 +1,4 @@
-# <Project Name>
+# <OS_LAB_TDB2043>
 
 ## 📖 Description
 This is a Lab Task of course Operating Systems TDB2043 
