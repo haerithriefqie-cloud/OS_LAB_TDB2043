@@ -1,8 +1,8 @@
 # ⚙️ TDB 2043 Operating System
 
-👨‍💻 **Nishi Kenshin**  
-🎓 *Student ID:* 22011752  
-📚 *Course:* TDB 2043 
+👨‍💻 **Harith Rifqi**  
+🎓 *Student ID:* 22011281  
+📚 *Course:* TDB 2043 : Operating Systems
 
 ---
 
@@ -38,7 +38,7 @@ Code is written in **C++** and follows clean, readable standards.
 ---
 
 ## 🌟 Author
-**Nishi Kenshin**  
-📫 [GitHub Profile →](https://github.com/n1shikenshin)
+**HAERITHRIEFQIE**  
+📫 [GitHub Profile →](https://github.com/haerithriefqie)
 
 > “Code it. Debug it. Learn it.” 🧠
