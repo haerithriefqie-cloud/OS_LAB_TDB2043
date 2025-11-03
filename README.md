@@ -10,11 +10,11 @@
 
 | 📅 **Date** | 💻 **Lab Tasks** |
 |-------------|------------------|
-| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_02/task1.cpp)<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_02/task2.cpp) |
-| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task1.cpp)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task2.cpp)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task3.cpp) |
-| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task4.sh) |
-| 25/10/23 | 🧩 [**Task 01 - CPU Scheduling Algorithm - Priority**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task1.c)<br>⚙️ [**Task 02 - CPU Scheduling Algorithm - Round Robin**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task2.c)<br>🧮 [**Task 03 - CPU Scheduling Algorithm - FCFS**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task3.c)<br>⚡ [**Task 04 - CPU Scheduling Algorithm - SJF**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_23/task4.c) |
-| 25/10/30 | 🧩 [**Task 01 - Producer Consumer Problem Using Semaphores)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_30/task1.c)<br>🔧 [**Task 02 - IPC Using Shared Memory**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_30/task2.c) |
+| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**]<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**] |
+| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**]<br>📁 [**Task 02 - Simulation of ls Command**]<br>🔍 [**Task 03 - Simulation of grep Command**] |
+| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**]<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**]<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**]<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**] |
+| 25/10/23 | 🧩 [**Task 01 - CPU Scheduling Algorithm - Priority**]<br>⚙️ [**Task 02 - CPU Scheduling Algorithm - Round Robin**]<br>🧮 [**Task 03 - CPU Scheduling Algorithm - FCFS**]<br>⚡ [**Task 04 - CPU Scheduling Algorithm - SJF**] |
+| 25/10/30 | 🧩 [**Task 01 - Producer Consumer Problem Using Semaphores)**]<br>🔧 [**Task 02 - IPC Using Shared Memory**] |
 
 ---
 
