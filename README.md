@@ -1,7 +1,7 @@
 # ⚙️ TDB 2043 Operating System
 
 👨‍💻 **Harith Rifqi**  
-🎓 *Student ID:* 220121281  
+🎓 *Student ID:* 2201281  
 📚 *Course:* TDB 2043 
 
 ---
