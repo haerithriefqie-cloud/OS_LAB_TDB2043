@@ -10,7 +10,7 @@
 
 | 📅 **Date** | 💻 **Lab Tasks** |
 |-------------|------------------|
-| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**]\<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**] |
+| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**]<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**] |
 | 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**]<br>📁 [**Task 02 - Simulation of ls Command**]<br>🔍 [**Task 03 - Simulation of grep Command**] |
 | 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**]<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**]<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**]<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**] |
 | 25/10/23 | 🧩 [**Task 01 - CPU Scheduling Algorithm - Priority**]<br>⚙️ [**Task 02 - CPU Scheduling Algorithm - Round Robin**]<br>🧮 [**Task 03 - CPU Scheduling Algorithm - FCFS**]<br>⚡ [**Task 04 - CPU Scheduling Algorithm - SJF**] |
